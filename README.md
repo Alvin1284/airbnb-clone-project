@@ -16,7 +16,7 @@
 - **Docker:** Containerization tool for consistent development and deployment environments.
 - **CI/CD Pipelines:** Automated pipelines for testing and deploying code changes.
 
-# 🗄️ Database design
+# 🗄️ Database Design
 The application uses a relational database structure with the following key entities and relationships:
 
 ## 🧑‍💼 Users
